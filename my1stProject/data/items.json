@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Peppermint Halo",
+      "Price": "$33",
+      "Description": "Blended with peppermint, eucalyptus, and rosemary, Peppermint Halo is our #1 best-selling headache reliever. Its cooling, tingling sensation is so effective at soothing symptoms, that one sells every two minutes."
+    },
+    {
+      "id": 2,
+      "name": "Peaceful Warrior",
+      "Price": "$30",
+      "Description": "A mineral salt-based spray deodorant that's been formulated free of potential skin irritants like baking soda, dyes and artificial fragrances"
+    },
+    {
+      "id": 3,
+      "name": "Pain Release",
+      "Price": "$40",
+      "Description":"Nature makes painkillers. We blended them for daily use. Soak in the proven power of plants, formulated with l-menthol from peppermint to provide deep, cooling relief, marjoram to decrease inflammation and a novel ingredient, copaiba, to help block pain signals."
+    },
+    {
+      "id": 4,
+      "name": "Extra Strength",
+      "Price": "$35",
+      "Description":"Our largest and strongest remedy promotes a warming and cooling sensation to soothe and alleviate muscular pain, soreness, tension and tightness caused by sore muscles, back aches, strains and sprains. "
+    },
+    {
+      "id": 5,
+      "name": "Sleep Well",
+      "Price": "$20",
+      "Description": "Yes, nature makes sleep aids. Sleep Well is our most potent plant-based roll-on for balanced, refreshing sleep. Roman chamomile is proven to ease restlessness. "
+    },
+    {
+      "id": 6,
+      "name": "Hair Repair",
+      "Price": "$45",
+      "Description": "Replenish, condition and repair dry, brittle and or damaged hair with this deeply nourishing and reparative hair oil treatment."
+    }
+  ]
